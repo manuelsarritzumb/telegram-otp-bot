@@ -1,1 +1,4 @@
+git remote add origin https://github.com/Manu01751/telegram-otp-bot.git
+git branch -M main
+git push -u origin main
 
